@@ -1,0 +1,8 @@
+[log]
+level = "debug"
+mode = "dev"
+
+[kafka]
+host = "localhost:9092"
+topic = "testTopic"
+group_id = "test_kafka_group"
